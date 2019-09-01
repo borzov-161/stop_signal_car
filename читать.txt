@@ -1,0 +1,5 @@
+1 установить библиотеки
+2 переименовать установленную библиотеку "Arduino-IRremote-master" в "IRremote-master" !!!!
+  путь C:\Users\хххххх\Documents\Arduino\libraries
+3.переделать библиотеку MD_Parola (описано в 1 моем блоге) 
+   https://www.drive2.ru/b/456796504879792647
